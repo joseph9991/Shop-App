@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../providers/products.dart';
 
+
 class ProductDetailScreen extends StatelessWidget {
   // final String title;
   // final double price;
